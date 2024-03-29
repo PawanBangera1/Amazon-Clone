@@ -15,3 +15,4 @@ This project is a basic Amazon clone, a simplified version of the popular e-comm
 - HTML
 - CSS
 
+https://pawanbangera1.github.io/Amazon-Clone/
